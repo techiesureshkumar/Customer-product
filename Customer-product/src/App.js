@@ -18,7 +18,7 @@ import signIn from "./components/sign-in.component";
 import { signOutSuccessAction } from "./redux/actions/userAction";
 //import { signOutSuccessAction } from "./redux/actions/customerAction";
 
-//CUSTOMER RELATED SCREENS
+//CUSTOMER RELATED SCREENS 
 import CreateCustomer from "./components/customer/create-customer";
 import EditCustomer from "./components/customer/edit-customer";
 import CustomerList from "./components/customer/customer-list";
